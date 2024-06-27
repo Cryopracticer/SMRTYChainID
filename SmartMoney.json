@@ -1,0 +1,17 @@
+{
+  "name": "Smart Money Chainlet",
+  "chainId": 2713890917786000,
+  "shortName": "SMRT",
+  "chain": "Smart Money Saga Chainlet",
+  "network": "Smart Mainnet",
+  "rpc": [
+    "https://smartmoneygame-2713890917786000-1.jsonrpc.sagarpc.io"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "My Smartest Chain",
+    "symbol": "SMRTx",
+    "decimals": 18
+  },
+  "infoURL": "https://smartmoneygame-2713890917786000-1.sagaexplorer.io/"
+}
